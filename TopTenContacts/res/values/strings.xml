@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Top 10 Contacts</string>
+    <string name="hello_world">Leyendo:</string>
+    <string name="myContactName">&#8230;</string>
+    <string name="totalContacts">xxx</string>
+    <string name="button">Ver Todos</string>
+    <string name="title_activity_contactslist">LISTA CONTACTOS</string>
+</resources>
