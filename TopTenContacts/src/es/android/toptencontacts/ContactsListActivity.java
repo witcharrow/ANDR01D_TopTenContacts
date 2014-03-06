@@ -5,7 +5,7 @@ import android.content.ContentResolver;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.provider.ContactsContract.Contacts;
-import android.support.v4.widget.SimpleCursorAdapter;
+import android.widget.SimpleCursorAdapter;
 
 /**
  * Este ejemplo muestra como usar un SimpleCursorAdapter para mostrar la informacion de los
